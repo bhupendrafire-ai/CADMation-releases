@@ -10,10 +10,10 @@ CADMation 0.3.21 and later can download verified updates automatically and insta
 
 This repository contains installers and public release notes only. The application source is maintained privately. Customer projects, BOMs, drawings and credentials are not stored here.
 
-## Manufacturing drawing preview
+## Beta for designer testing
 
-[Windows 0.3.23 and CADMation Mobile 1.30.0 prerelease](https://github.com/bhupendrafire-ai/CADMation-releases/releases/tag/v0.3.23)
+[Windows 0.3.27](https://github.com/bhupendrafire-ai/CADMation-releases/releases/tag/v0.3.27) is the current installer and the version installed copies update to automatically. Choose `CADMation_NXT_v0.3.27_Setup.exe`. Its release notes list what changed and the known issues of this beta. The Windows installer is unsigned, so Windows may show an unknown-publisher warning.
 
-Choose the Windows `CADMation_NXT_v0.3.23_Setup.exe` or Android `CADMation-Mobile-1.30.0-130-arm64-release.apk` asset. These are acceptance-testing builds; remaining hands-on Windows/tablet checks and production approval are described in the release notes. Stable Windows automatic updates remain on 0.3.22.
+## Earlier previews
 
-The Android APK uses the established legacy signing certificate to preserve compatibility with existing installations. The Windows installer is unsigned. Only installer/APK downloads and public release documentation are provided here; application source stays private.
+[Windows 0.3.23 and CADMation Mobile 1.30.0 prerelease](https://github.com/bhupendrafire-ai/CADMation-releases/releases/tag/v0.3.23) carries the Android `CADMation-Mobile-1.30.0-130-arm64-release.apk`. The APK uses the established legacy signing certificate to preserve compatibility with existing installations. Only installer/APK downloads and public release documentation are provided here; application source stays private.
