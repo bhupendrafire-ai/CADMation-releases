@@ -12,7 +12,7 @@ This repository contains installers and public release notes only. The applicati
 
 ## Beta for designer testing
 
-[Windows 0.3.32](https://github.com/bhupendrafire-ai/CADMation-releases/releases/tag/v0.3.32) is the current installer and the version installed copies update to automatically. Choose `CADMation_NXT_v0.3.32_Setup.exe`. Its release notes list what changed and the known issues of this beta. The Windows installer is unsigned, so Windows may show an unknown-publisher warning.
+[Windows 0.3.33](https://github.com/bhupendrafire-ai/CADMation-releases/releases/tag/v0.3.33) is the current installer and the version installed copies update to automatically. Choose `CADMation_NXT_v0.3.33_Setup.exe`. Its release notes list what changed and the known issues of this beta. The Windows installer is unsigned, so Windows may show an unknown-publisher warning.
 
 ## Earlier previews
 
